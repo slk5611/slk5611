@@ -209,6 +209,6 @@ mindmap
   
   **⭐ From [Shivlal Kumavat](https://github.com/slk5611) with ❤️**
   
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3C873A,100:6DBF4B&height=120&section=footer)
   
 </div>
