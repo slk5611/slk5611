@@ -209,32 +209,6 @@ mindmap
   
   **⭐ From [Shivlal Kumavat](https://github.com/slk5611) with ❤️**
   
-  <svg width="100%" height="120" viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3C873A"/>
-      <stop offset="100%" stop-color="#6DBF4B"/>
-    </linearGradient>
-  </defs>
+ <img src="https://raw.githubusercontent.com/slk5611/slk5611/main/assets/wave.svg" width="100%" />
 
-  <!-- Text -->
-  <text x="50%" y="45%" text-anchor="middle" fill="#ffffff" font-size="18" font-family="monospace" opacity="0.85">
-    Shivlal Kumavat • Node.js • Scalable Systems
-  </text>
-
-  <!-- Wave -->
-  <path fill="url(#waveGradient)">
-    <animate
-      attributeName="d"
-      dur="3s"
-      repeatCount="indefinite"
-      values="
-        M0,80 C240,120 480,40 720,60 960,80 1200,120 1440,80 L1440,120 L0,120 Z;
-        M0,60 C240,40 480,120 720,80 960,40 1200,60 1440,60 L1440,120 L0,120 Z;
-        M0,80 C240,120 480,40 720,60 960,80 1200,120 1440,80 L1440,120 L0,120 Z
-      "
-    />
-  </path>
-</svg>
-  
 </div>
