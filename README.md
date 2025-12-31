@@ -106,7 +106,7 @@ I’m a **Senior Full-Stack Developer with a strong focus on Node.js**, and I’
 mindmap
   root((Shivlal Kumavat))
     Frontend
-      Amgular
+      Angular
       Redux
       Tailwind CSS
     Backend
