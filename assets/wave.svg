@@ -1,31 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1440 100"
+     viewBox="0 0 1440 60"
      preserveAspectRatio="none">
 
-  <defs>
-    <linearGradient id="g">
-      <stop offset="0%" stop-color="#3C873A"/>
-      <stop offset="100%" stop-color="#6DBF4B"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Animated Wave -->
-  <path fill="url(#g)">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+  <!-- Back wave: Angular (light red) -->
+  <path fill="#F8BBD0">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
       values="
-        M0,70 C240,100 480,30 720,50 960,70 1200,100 1440,70 L1440,100 L0,100 Z;
-        M0,50 C240,30 480,100 720,70 960,30 1200,50 1440,50 L1440,100 L0,100 Z;
-        M0,70 C240,100 480,30 720,50 960,70 1200,100 1440,70 L1440,100 L0,100 Z
+        M0,65 C240,85 480,45 720,55 960,65 1200,85 1440,65 L1440,100 L0,100 Z;
+        M0,55 C240,45 480,85 720,65 960,45 1200,55 1440,55 L1440,100 L0,100 Z;
+        M0,65 C240,85 480,45 720,55 960,65 1200,85 1440,65 L1440,100 L0,100 Z
       " />
   </path>
 
-  <!-- Text -->
-  <text x="50%" y="55%" text-anchor="middle"
-        font-size="16"
-        fill="blue"
-        opacity="0.85"
-        font-family="monospace">
-    Shivlal Kumavat • Node.js Expert • Scalable Systems
-  </text>
+  <!-- Express wave: soft dark gray -->
+  <path fill="#424242">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,68 C240,88 480,48 720,58 960,68 1200,88 1440,68 L1440,100 L0,100 Z;
+        M0,58 C240,48 480,88 720,68 960,48 1200,58 1440,58 L1440,100 L0,100 Z;
+        M0,68 C240,88 480,48 720,58 960,68 1200,88 1440,68 L1440,100 L0,100 Z
+      " />
+  </path>
+
+  <!-- MongoDB wave: light green -->
+  <path fill="#A5D6A7">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+        M0,72 C240,92 480,52 720,62 960,72 1200,92 1440,72 L1440,100 L0,100 Z;
+        M0,62 C240,52 480,92 720,72 960,52 1200,62 1440,62 L1440,100 L0,100 Z;
+        M0,72 C240,92 480,52 720,62 960,72 1200,92 1440,72 L1440,100 L0,100 Z
+      " />
+  </path>
+
+  <!-- Front wave: Node.js green -->
+  <path fill="#3C873A">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="
+        M0,75 C240,100 480,40 720,55 960,70 1200,100 1440,75 L1440,100 L0,100 Z;
+        M0,65 C240,40 480,100 720,75 960,40 1200,65 1440,65 L1440,100 L0,100 Z;
+        M0,75 C240,100 480,40 720,55 960,70 1200,100 1440,75 L1440,100 L0,100 Z
+      " />
+  </path>
 
 </svg>
