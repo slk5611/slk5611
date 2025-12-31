@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;MERN+Stack+Specialist;Frontend+Pretty+Backend+Powerfull;AWS+Microservices+NodeJs+Expert;Bug+Fixer+By+Day;Feature+Builder+By+Night;Building+Scalable+Systems)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;MEAN+Stack+Specialist;Frontend+Pretty+Backend+Powerfull;AWS+Microservices+NodeJs+Expert;Bug+Fixer+By+Day;Feature+Builder+By+Night;Building+Scalable+Systems)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shivlal-kumavat)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itjugadu.com)
@@ -26,7 +26,7 @@ const shivlal = {
 };
 ```
 
-I’m a **Senior Full-Stack Developer with a strong focus on Node.js**, and I’ve spent years building end-to-end web applications using the **MERN stack**. I genuinely enjoy solving real-world problems, learning along the way, and turning ideas into products people can actually rely on. Whether I’m shaping a clean, intuitive front end or building a scalable and stable backend, I care about writing good code and delivering solutions that truly work.
+I’m a **Senior Full-Stack Developer with a strong focus on Node.js**, and I’ve spent years building end-to-end web applications using the **MEAN stack**. I genuinely enjoy solving real-world problems, learning along the way, and turning ideas into products people can actually rely on. Whether I’m shaping a clean, intuitive front end or building a scalable and stable backend, I care about writing good code and delivering solutions that truly work.
 
 ---
 
@@ -91,7 +91,7 @@ I’m a **Senior Full-Stack Developer with a strong focus on Node.js**, and I’
   
   | 🎯 Category | 📈 Count | 💡 Highlights |
   |------------|---------|--------------|
-  | **MERN Stack** | 10+ projects | Full-stack web applications |
+  | **MEAN Stack** | 10+ projects | Full-stack web applications |
   | **Angular Apps** | 10+ projects | SPA & interactive UIs |
   | **NodeJs** | 20+ projects | RESTful APIs, Batch & Async Processing, JWT & OAuth |
   | **Cloud & DevOps** | 15+ projects | AWS (Lambda, API Gateway, S3, SQS, SNS), Docker, CI/CD pipelines, Redis |
@@ -184,7 +184,7 @@ mindmap
   ```javascript
   const lookingFor = {
     projects: ["Scalable backend services and APIs", "Async processing and batch systems"],
-    collaboration: ["MERN stack projects", "NodeJs development"],
+    collaboration: ["MEAN stack projects", "NodeJs development"],
     interests: ["AI integration", "Performance optimization", "Scalable backend systems"]
   };
   ```
