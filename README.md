@@ -209,6 +209,6 @@ mindmap
   
   **⭐ From [Shivlal Kumavat](https://github.com/slk5611) with ❤️**
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3C873A,100:6DBF4B&height=55&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3C873A,80:6DBF4B&height=140&section=footer)
   
 </div>
