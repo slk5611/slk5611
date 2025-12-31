@@ -87,10 +87,10 @@ I’m a **Senior Full-Stack Developer with a strong focus on Node.js**, and I’
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slk5611&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slk5611&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slk5611&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slk5611&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
 <div align="center">
   
