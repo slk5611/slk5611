@@ -4,7 +4,7 @@
 
   <!-- Angular (back wave) -->
   <path fill="#F44336">
-    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
       values="
         M0,35 C240,50 480,20 720,30 960,35 1200,50 1440,35 L1440,60 L0,60 Z;
         M0,30 C240,20 480,50 720,35 960,20 1200,30 1440,30 L1440,60 L0,60 Z;
