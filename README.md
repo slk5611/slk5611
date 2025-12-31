@@ -209,6 +209,6 @@ mindmap
   
   **⭐ From [Shivlal Kumavat](https://github.com/slk5611) with ❤️**
   
- <img src="https://raw.githubusercontent.com/slk5611/slk5611/main/assets/wave.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/slk5611/slk5611/main/assets/wave.svg" width="100%" />
 
 </div>
