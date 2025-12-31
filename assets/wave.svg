@@ -3,7 +3,7 @@
      preserveAspectRatio="none">
 
   <!-- Angular (back wave) -->
-  <path fill="#F8BBD0">
+  <path fill="##F44336">
     <animate attributeName="d" dur="9s" repeatCount="indefinite"
       values="
         M0,35 C240,50 480,20 720,30 960,35 1200,50 1440,35 L1440,60 L0,60 Z;
